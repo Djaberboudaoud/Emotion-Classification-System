@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Emotion Classification](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=Emotion+Classification+System)
+![Emotion Classification](https://github.com/Djaberboudaoud/Emotion-Classification-System/blob/main/result.png)
 *Replace this placeholder with your actual project screenshot*
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app/)
