@@ -3,7 +3,6 @@
 <div align="center">
 
 ![Emotion Classification](https://github.com/Djaberboudaoud/Emotion-Classification-System/blob/main/result.png)
-*Replace this placeholder with your actual project screenshot*
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
